@@ -12,9 +12,9 @@
 ### 🚀 Proyectos
 
 #### Personales
-  - [Gestion de Club Deportivo]()
+  - [Gestion de Club Deportivo](vhttps://github.com/JonathanMiskinich/Trabajador-integrador)
 #### Proyectos Academicos
-  - [Patrones de Diseño]()
+  - [Patrones de Diseño](https://github.com/JonathanMiskinich/MetodologiaProgramacion)
   - [Estructuras de Datos]()
 
 ### 🌐 Contacto
