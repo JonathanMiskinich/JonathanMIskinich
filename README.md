@@ -11,7 +11,7 @@
 
 ### 🚀 Proyectos
 
-#### Personales
+#### 🚧 Proyectos en Curso
   - [Gestion de Club Deportivo](https://github.com/JonathanMiskinich/Trabajador-integrador)
 #### Proyectos Academicos
   - [Patrones de Diseño](https://github.com/JonathanMiskinich/MetodologiaProgramacion)
