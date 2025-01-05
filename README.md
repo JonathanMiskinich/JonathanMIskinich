@@ -11,7 +11,8 @@
 
 ### 🚀 Proyectos
 
-#### 🚧 Proyectos en Curso
+#### 🚧 Proyectos mas Importantes
+  - [API REST para gestion de hotel](https://github.com/JonathanMiskinich/API-Gestion-Hotel)
   - [Gestion de Club Deportivo](https://github.com/JonathanMiskinich/Trabajador-integrador)
 #### Proyectos Academicos
   - [Patrones de Diseño](https://github.com/JonathanMiskinich/MetodologiaProgramacion)
