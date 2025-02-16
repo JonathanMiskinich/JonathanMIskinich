@@ -1,4 +1,4 @@
-### 👋 Hola, soy Jonathan Miskinich
+### 👋 Hola, soy Jonathan Miskinich. -- Desarrollador Backend.
   - 👨‍💻 Desarrollador backend enfocado en C# y .NET Core.
   - 🎓 Estudiante de Ingeniería en Informática en la Universidad Nacional Arturo Jauretche.
   - 💼 Buscando mi primer empleo en desarrollo backend.
@@ -20,7 +20,7 @@
 
 ### 🌐 Contacto
   - [LinkedIn](www.linkedin.com/in/jonathan-miskinich-78ab5b261)
-  - [Email](mailto:jonathanmiskinichj@gmail.com)
+  - [Email](mailto:jonathan.mmiskinich.dev@gmail.com)
 <!--
 **JonathanMiskinich/JonathanMIskinich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
