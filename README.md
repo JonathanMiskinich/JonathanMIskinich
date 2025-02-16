@@ -1,9 +1,11 @@
-### 👋 Hola, soy Jonathan Miskinich. -- Desarrollador Backend.
-  - 👨‍💻 Desarrollador backend enfocado en C# y .NET Core.
-  - 🎓 Estudiante de Ingeniería en Informática en la Universidad Nacional Arturo Jauretche.
-  - 💼 Buscando mi primer empleo en desarrollo backend.
+<h1>👋 Hola, soy Jonathan Miskinich. -- Desarrollador Backend.</h1>
 
-### 🛠️ Tecnologías y Herramientas
+  - 👨‍💻 Desarrollador backend enfocado en C# y .NET Core.<br>
+  - 🎓 Estudiante de Ingeniería en Informática en la Universidad Nacional Arturo Jauretche.<br>
+  - 💼 Buscando mi primer empleo en desarrollo backend.<br>
+
+<h1>🛠️ Tecnologías y Herramientas</h1>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
@@ -16,7 +18,7 @@
 
 ###
 
-### 🚀 Proyectos
+<h1>🚀 Proyectos</h1>
 
 #### 🚧 Proyectos mas Importantes
   - [API REST para gestion de hotel](https://github.com/JonathanMiskinich/API-Gestion-Hotel)
@@ -25,9 +27,19 @@
   - [Patrones de Diseño](https://github.com/JonathanMiskinich/MetodologiaProgramacion)
   - [Estructuras de Datos]()
 
-### 🌐 Contacto
-  - [LinkedIn](www.linkedin.com/in/jonathan-miskinich-78ab5b261)
-  - [Email](mailto:jonathan.mmiskinich.dev@gmail.com)
+<h1>🌐 Contacto</h1>
+
+<div align="left">
+  <a href="www.linkedin.com/in/jonathan-miskinich-78ab5b261" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"     
+     alt="linkedin logo"  />
+  </a>
+  <a href="mailto:jonathan.mmiskinich.dev@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail 
+       logo"  />
+  </a>
+</div>
+
 <!--
 **JonathanMiskinich/JonathanMIskinich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
