@@ -22,11 +22,11 @@
 
 #### 🚧 Proyectos mas Importantes
   - [API REST para gestion de hotel](https://github.com/JonathanMiskinich/API-Gestion-Hotel)
-  - [Gestion de Club Deportivo](https://github.com/JonathanMiskinich/Trabajador-integrador)
+<!--  - [Gestion de Club Deportivo](https://github.com/JonathanMiskinich/Trabajador-integrador)
 #### Proyectos Academicos
   - [Patrones de Diseño](https://github.com/JonathanMiskinich/MetodologiaProgramacion)
   - [Estructuras de Datos]()
-
+-->
 <h1>🌐 Contacto</h1>
 
 <div align="left">
