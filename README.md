@@ -40,7 +40,7 @@
 
 #### 🌟 Destacados
 - [API REST para gestión de hotel](https://github.com/JonathanMiskinich/API-Gestion-Hotel) — Backend en .NET Core + MySQL.  
-- [App Fullstack de Gestión de Club](https://github.com/JonathanMiskinich/Trabajador-integrador) — API en .NET + frontend en React.  
+- [App Fullstack de Menú digital para restaurante](https://github.com/MiskinichJonathanJ/api-rest-menu-digital.git) — API en .NET + frontend. (En desarrollo)  
 
 #### 📚 Académicos y de práctica
 - [Patrones de Diseño en C#](https://github.com/JonathanMiskinich/MetodologiaProgramacion)  
