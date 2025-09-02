@@ -1,56 +1,61 @@
-<h1>👋 Hola, soy Jonathan Miskinich. -- Desarrollador Backend.</h1>
+<h1>👋 Hola, soy Jonathan Miskinich — Desarrollador Fullstack</h1>
 
-  - 👨‍💻 Desarrollador backend enfocado en C# y .NET Core.<br>
-  - 🎓 Estudiante de Ingeniería en Informática en la Universidad Nacional Arturo Jauretche.<br>
-  - 💼 Buscando mi primer empleo en desarrollo backend.<br>
+- 👨‍💻 Desarrollador fullstack con experiencia en **C#/.NET Core** (backend) y proyectos en **frontend** con tecnologías modernas.<br>
+- 🎓 Estudiante de Ingeniería en Informática en la Universidad Nacional Arturo Jauretche.<br>
+- 🛠️ Interesado en crear aplicaciones completas, escalables y bien estructuradas.<br>
+- 💼 Buscando mi primer empleo como desarrollador fullstack.<br>
 
 <h1>🛠️ Tecnologías y Herramientas</h1>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+
+  <!-- DevOps / Entorno -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
 ###
 
 <h1>🚀 Proyectos</h1>
 
-#### 🚧 Proyectos mas Importantes
-  - [API REST para gestion de hotel](https://github.com/JonathanMiskinich/API-Gestion-Hotel)
-<!--  - [Gestion de Club Deportivo](https://github.com/JonathanMiskinich/Trabajador-integrador)
-#### Proyectos Academicos
-  - [Patrones de Diseño](https://github.com/JonathanMiskinich/MetodologiaProgramacion)
-  - [Estructuras de Datos]()
--->
+#### 🌟 Destacados
+- [API REST para gestión de hotel](https://github.com/JonathanMiskinich/API-Gestion-Hotel) — Backend en .NET Core + MySQL.  
+- [App Fullstack de Gestión de Club](https://github.com/JonathanMiskinich/Trabajador-integrador) — API en .NET + frontend en React.  
+
+#### 📚 Académicos y de práctica
+- [Patrones de Diseño en C#](https://github.com/JonathanMiskinich/MetodologiaProgramacion)  
+- [Ejercicios de estructuras de datos](#)  
+- Más proyectos en mi perfil.  
+
+---
+
 <h1>🌐 Contacto</h1>
 
 <div align="left">
-  <a href="www.linkedin.com/in/jonathan-miskinich-78ab5b261" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"     
-     alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/jonathan-miskinich-78ab5b261" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:jonathan.mmiskinich.dev@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail 
-       logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
-
-<!--
-**JonathanMiskinich/JonathanMIskinich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
